@@ -1,6 +1,6 @@
 
 # 💫 About Me:
- I’m looking to collaborate on open-source<br>🌱 I’m currently learning React<br>
+ 👯 I’m looking to collaborate on open-source<br>🌱 I’m currently learning React<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DIVYA-PAWAR-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
