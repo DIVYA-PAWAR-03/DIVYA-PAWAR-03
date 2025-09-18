@@ -1,6 +1,14 @@
 
 # 💫 About Me:
- 👯 I’m looking to collaborate on open-source<br>🌱 I’m currently learning React<br>
+ 👯 I’m looking to collaborate on open-source<br>
+ 🎓 Pursuing **B.E. in Computer Science** at Ajeenkya D Y Patil SOE (SGPA: 9.02)  
+ 💻 Skilled in **JavaScript, TypeScript, Python, C++, PHP, Java**  
+ ⚡ Experienced with **React.js, Next.js, Node.js, Express.js, Tailwind CSS, Redux**  
+ 🗄️ Databases: **MySQL, MongoDB, SQL**  
+ ☁️ Cloud: **AWS EC2**  
+ 🛠️ Tools: **Git, GitHub, Figma, Blender, Adobe XD**  
+ 🔐 Practices: **OOP, DSA, Agile methodology**  
+ 🌍 Based in Pune, India  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DIVYA-PAWAR-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
