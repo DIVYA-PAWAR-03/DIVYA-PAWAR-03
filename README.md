@@ -1,4 +1,4 @@
-Hello, I'm Divya Pawar 👋 
+# Hello, I'm Divya Pawar 👋 
 # 💫 About Me:
  👯 I’m looking to collaborate on open-source<br>
  🎓 Pursuing **B.E. in Computer Science** at Ajeenkya D Y Patil SOE (SGPA: 9.02)  
