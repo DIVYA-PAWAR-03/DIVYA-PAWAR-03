@@ -15,7 +15,8 @@
 - 💼 LinkedIn: [Divya Pawar](https://www.linkedin.com/in/divyapawar31)  
 - 🌐 Projects: [GitHub](https://github.com/DIVYA-PAWAR-03)
 
-  ⭐️ *“Code is like poetry — simple, powerful, and meant to be shared.”*  
+
+⭐️ *“Code is like poetry — simple, powerful, and meant to be shared.”*  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DIVYA-PAWAR-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DIVYA-PAWAR-03&theme=dark&hide_border=false)<br/>
