@@ -1,7 +1,7 @@
 # Hello, I'm Divya Pawar 👋 
 # 💫 About Me:
  👯 I’m looking to collaborate on open-source<br>
- 🎓 Pursuing **B.E. in Computer Science** at Ajeenkya D Y Patil SOE (SGPA: 9.02)  
+ 🎓 COMPLETED **B.E. in Computer Science** at Ajeenkya D Y Patil SOE (SGPA: 9.02)  
  💻 Skilled in **JavaScript, TypeScript, Python, C++, PHP, Java**  
  ⚡ Experienced with **React.js, Next.js, Node.js, Express.js, Tailwind CSS, Redux**  
  🗄️ Databases: **MySQL, MongoDB, SQL**  
