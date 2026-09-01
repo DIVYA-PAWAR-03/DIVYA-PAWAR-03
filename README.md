@@ -11,7 +11,7 @@
  🌍 Based in Pune, India  
 
  # 📫 Connect with Me  
-- 📧 Email: [pawardivya.dev@gmail.com](mailto:pawardivya.dev@gmail.com)  
+- 📧 Email: [divyapawar8791@gmail.com](mailto:divyapawar8791@gmail.com)  
 - 💼 LinkedIn: [Divya Pawar](https://www.linkedin.com/in/divyapawar31)  
 - 🌐 Projects: [GitHub](https://github.com/DIVYA-PAWAR-03)
 
