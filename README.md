@@ -1,21 +1,21 @@
 # Hello, I'm Divya Pawar 👋 
-# 💫 About Me:
- 👯 I’m looking to collaborate on open-source<br>
- 🎓 COMPLETED **B.E. in Computer Science** at Ajeenkya D Y Patil SOE (SGPA: 9.02)  
- 💻 Skilled in **JavaScript, TypeScript, Python, C++, PHP, Java**  
- ⚡ Experienced with **React.js, Next.js, Node.js, Express.js, Tailwind CSS, Redux**  
- 🗄️ Databases: **MySQL, MongoDB, SQL**  
- ☁️ Cloud: **AWS EC2**  
- 🛠️ Tools: **Git, GitHub, Figma, Blender, Adobe XD**  
- 🔐 Practices: **OOP, DSA, Agile methodology**  
- 🌍 Based in Pune, India  
-port-folio2026-divya.vercel.app
- # 📫 Connect with Me  
-- 📧 Email: [divyapawar8791@gmail.com](mailto:divyapawar8791@gmail.com)  
-- 💼 LinkedIn: [Divya Pawar](https://www.linkedin.com/in/divyapawar31)  
-- 🌐 Projects: [GitHub](https://github.com/DIVYA-PAWAR-03)
-- PortFolio :  [PortFolio](port-folio2026-divya.vercel.app)
+💫 About Me :
+🎓 Completed B.E. in Computer Engineering from Ajeenkya D Y Patil School of Engineering — SGPA: 9.78
+💻 Languages: JavaScript, TypeScript, Python, C++, Java, PHP
+⚡ Technologies: React.js, Next.js, Node.js, Express.js, Tailwind CSS, Redux
+🗄️ Databases: MySQL, MongoDB, SQL
+☁️ Cloud: AWS EC2
+🛠️ Tools: Git, GitHub, Figma, Blender, Adobe XD, Postman
+🔐 Knowledge: OOP, DSA, Agile Methodology
+👯 Open to: Open-source collaboration, internships, and entry-level opportunities
+🌍 Based in: Pune, India
+🌐 Portfolio: port-folio2026-divya.vercel.app
 
+📫 Connect With Me :
+📧 Email: divyapawar8791@gmail.com
+💼 LinkedIn: Divya Pawar
+💻 GitHub: DIVYA-PAWAR-03
+🌐 Portfolio: Visit My Portfolio
 
 ⭐️ *“Code is like poetry — simple, powerful, and meant to be shared.”*  
 
