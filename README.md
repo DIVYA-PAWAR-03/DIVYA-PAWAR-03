@@ -1,46 +1,25 @@
-💫 About Me
-
-🎓 Completed B.E. in Computer Science from Ajeenkya D Y Patil School of Engineering — SGPA: 9.78 
-
-💻 Languages: JavaScript, TypeScript, Python, C++, Java, HTML, XML, JSON
-
-⚡ Libraries: React.js, Redux, Zustand, Zod
-
-🚀 Frameworks: React Native, Node.js, Express.js, Next.js, Tailwind CSS, Bootstrap
-
-🤖 AI/ML: Prompt Engineering, Data Annotation, AI Model Evaluation
-
-🗄️ Databases: SQL, MySQL, MongoDB
-
-☁️ Cloud: AWS EC2
-
-🛠️ Tools: Git, GitHub, Docker, Postman, Cursor, Figma, Canva, WordPress
-
-📊 SEO & Analytics: Basic SEO, SEO-friendly Web Development, Google Analytics, Google Search Console
-
-🔐 Core Concepts: Data Structures & Algorithms, Object-Oriented Programming
-
-🔄 Development Practice: Agile Methodology
-
-💻 Operating Systems: Linux, Windows
-
-💼 Experience: Technical Intern at Sevysis Pvt. Ltd.
-
-👯 Open to: Full-time opportunities, internships, open-source collaboration, and exciting development projects
-
-🌍 Based in: Pune, India
-
-🌐 Portfolio: Visit My Portfolio
-
-📫 Connect With Me
-
-📧 Email: divyapawar8791@gmail.com
-
-💼 LinkedIn: Divya Pawar
-
-💻 GitHub: DIVYA-PAWAR-03
-
-🌐 Portfolio: port-folio2026-divya.vercel.app
+💫 About Me <br><br>
+🎓 Completed B.E. in Computer Science from Ajeenkya D Y Patil School of Engineering — SGPA: 9.78  <br>
+💻 Languages: JavaScript, TypeScript, Python, C++, Java, HTML, XML, JSON <br>
+⚡ Libraries: React.js, Redux, Zustand, Zod <br>
+🚀 Frameworks: React Native, Node.js, Express.js, Next.js, Tailwind CSS, Bootstrap <br>
+🤖 AI/ML: Prompt Engineering, Data Annotation, AI Model Evaluation <br>
+🗄️ Databases: SQL, MySQL, MongoDB <br>
+☁️ Cloud: AWS EC2 <br>
+🛠️ Tools: Git, GitHub, Docker, Postman, Cursor, Figma, Canva, WordPress <br>
+📊 SEO & Analytics: Basic SEO, SEO-friendly Web Development, Google Analytics, Google Search Console <br>
+🔐 Core Concepts: Data Structures & Algorithms, Object-Oriented Programming <br>
+🔄 Development Practice: Agile Methodology <br>
+💻 Operating Systems: Linux, Windows <br>
+💼 Experience: Technical Intern at Sevysis Pvt. Ltd. <br>
+👯 Open to: Full-time opportunities, internships, open-source collaboration, and exciting development projects <br>
+🌍 Based in: Pune, India <br><br>
+🌐 Portfolio: Visit My Portfolio <br><br>
+📫 Connect With Me <br>
+📧 Email: divyapawar8791@gmail.com <br>
+💼 LinkedIn: Divya Pawar <br>
+💻 GitHub: DIVYA-PAWAR-03 <br>
+🌐 Portfolio: port-folio2026-divya.vercel.app <br><br>
 
 
 ⭐️ *“Code is like poetry — simple, powerful, and meant to be shared.”*  
